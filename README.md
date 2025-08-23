@@ -60,4 +60,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  19 August url is now operational and clickable
+
+
+Update:  23.08.2025 The broken link has been fixed, it's now operational.
